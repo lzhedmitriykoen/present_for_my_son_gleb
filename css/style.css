@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    background-color: #badbcc;
+}
+.card{
+    width: 50%;
+}
+
+.hidden{
+    display: none;
+}
